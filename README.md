@@ -9,7 +9,8 @@ Welcome to SocialLinkr! A social media clone web application that emulates the c
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Deployed Site & Video](#Deployed-Site-&-Video)
+- [Video](#video)
+- [Project Maintainers](#project-maintainers)
 
 ## Project Overview
 
@@ -74,7 +75,7 @@ Access the website at http://localhost:${PORT} in your web browser
 
 [![Video Thumbnail](https://res.cloudinary.com/dtbxom7ro/image/upload/v1693202017/SocialLinkr_Thumbnail_nycfbc.png)](https://drive.google.com/file/d/14GPLIeEq_1ElFjhf90RFyreyuWsKQ5rW/view?usp=sharing)
 
-**Project Maintainers:**
+## Project Maintainers
 
 - [Vishal Kumar](https://github.com/vissshal)
 - [Kapil Garg](https://github.com/kplgarg)
